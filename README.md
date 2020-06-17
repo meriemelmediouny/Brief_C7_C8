@@ -1,7 +1,6 @@
 # Brief_C7_C8
 
-## Enoncé brief : 
-1. Présentation d’ensemble du projet 
+## 1. Présentation d’ensemble du projet 
 
 ### 1.1 Présentation de l’entreprise : 
 - "Win Win" est une entreprise de vente de prêt à porter en ligne.
@@ -16,7 +15,7 @@
 - Le site sera intégralement "Responsive Design". 
 - L'ensemble des fonctionnalités détaillées dans ce document seront accessibles depuis un mobile.
 
-2. Description graphique et ergonomique
+## 2. Description graphique et ergonomique
 
 ### 2.1 Charte graphique : 
 La charte graphique doit être proposée par le prestataire, en respectant les consignes suivantes.
@@ -29,7 +28,7 @@ La charte graphique doit être proposée par le prestataire, en respectant les c
 - https://www.lcwaikiki.ma
 - https://www.massimodutti.com/ma/en/
 
-3. Description fonctionnelle et technique
+## 3. Description fonctionnelle et technique
 
  ### 3.1 Arborescence du site :
  Le site se décompose en 6 pages principales, toutes accessibles depuis le header du site, lui-même présent à l'identique sur l'ensemble des pages du site. 
