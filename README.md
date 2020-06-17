@@ -1,4 +1,4 @@
-#                                       Brief_C7_C8
+# Brief_C7_C8
 
 ## 1. Présentation d’ensemble du projet 
 
@@ -51,3 +51,5 @@ L'ensemble du projet sera basé sur une méthodologie agile type "scrum".
 Durée : (du 18 au 27 juin)
 
 > N.B: il faut utiliser CMS wordpress pour la réalisation de ce projet
+
+Bon Courage ! :thumbsup:
